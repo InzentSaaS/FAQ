@@ -1,1 +1,1 @@
-### INZENT OpenAPI Service FAQ
+# INZENT OpenAPI Service FAQ
